@@ -1,0 +1,10 @@
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.mainpage {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
